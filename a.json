@@ -1,0 +1,18 @@
+{
+    "appid": 3078560, 
+    "items": [
+        {
+            "itemdefid": 100001,
+            "type": "item",
+            "name": "Gold test",
+            "description": "A shiny golden hat.",
+            "price": "1;USD99",
+            "name_color": "FFD700",
+            "background_color": "3C352E",
+            "icon_url": "http://cdn.steam.com/apps/480/icons/golden_hat.png",
+            "icon_url_large": "http://cdn.steam.com/apps/480/icons/golden_hat_large.png",
+            "tradable": true,
+            "marketable": true
+        }
+    ]
+}
